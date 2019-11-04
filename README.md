@@ -5,4 +5,4 @@ AP Computer Science A Magpie Lab
 - Activity 2: Work with Magpie code using if statements
 - Activity 3: Work with Magpie  and Stirng API using string methods, while loops and Javadoc commenting
 - Activity 4: Work with modifying responses (inedexOf, String,...)
-- Activity 4: Using arrays instead of if statements to get random responses
+- Activity 5: Using arrays instead of if statements to get random responses
